@@ -1,0 +1,16 @@
+baseURL = "http://aadityachapagain.com/AboutMe/"
+languageCode = "en-us"
+title = "Resume : Aaditya Chapagain"
+theme = "winning"
+
+disableKinds = ["RSS"]
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+[taxonomies]
+
+[author]
+    name = "Aaditya Chapagain"
+    email = "aadityachapagain101@gmail.com"
+
+[markup.goldmark.renderer]
+unsafe= true
