@@ -4,7 +4,7 @@ title: About Aaditya Chapagain
 
 # Aaditya Chapagain
 
-2+ years experienced ML Engineer with proven success in building algorithms & predictive model for different industries. Highly adept at Web Scraping, data analysis, Building NLP models. Passionate and thriving engineer with the ability to apply ML techniques & algorithms development to solve real world industries problems.
+2+ years experienced ML Engineer with proven success in building algorithms & predictive model for different industries. Highly adept at building, training, optimizing NLP and Conversational AI models. Passionate and thriving engineer with the ability to apply ML techniques & algorithms development to solve real world industries problems.
 {{% grid %}}
 
 {{% column -span-cols-6 -m-right-2 %}}
@@ -16,7 +16,7 @@ title: About Aaditya Chapagain
 ### Fusemachines - Machine Learning Engineer
 
 - Built context aware chatbot system using cutting edge DeepLearning Algorithms and Analysis
-- Web Scraping, Data Visualization and Regression.
+- Data Scraping, Data Visualization and Regression.
 - Built Recommendation system with continuous dataflow pipeline from backend services.
 - Conceptualized and implemented a sentiment and behavioral analysis tool to rate applicants ability to solve the job given their CVs.
 
@@ -39,6 +39,7 @@ title: About Aaditya Chapagain
 - Python
 - HTML5
 - Go
+- GoogleCloud
 - Pytorch
 - TensorFlow
 - Probability & Statistics
