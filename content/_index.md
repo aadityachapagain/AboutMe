@@ -16,9 +16,9 @@ title: About Aaditya Chapagain
 ### Fusemachines - Machine Learning Engineer
 
 - Built context aware chatbot system using cutting edge DeepLearning Algorithms and Analysis
-- Web Scraping, Data Visualization and Regression Modelling.
+- Web Scraping, Data Visualization and Regression.
 - Built Recommendation system with continuous dataflow pipeline from backend services.
-- Conceptualized and implemented a sentiment and behavioral analysis tool to rate applicants ability to solve the job given his life works.
+- Conceptualized and implemented a sentiment and behavioral analysis tool to rate applicants ability to solve the job given their CVs.
 
 ###### _December 2018 - February 2019_
 
@@ -40,6 +40,7 @@ title: About Aaditya Chapagain
 - HTML5
 - Go
 - Pytorch
+- TensorFlow
 - Probability & Statistics
 
 #### Familiar with
@@ -50,6 +51,8 @@ title: About Aaditya Chapagain
 #### Interested in
 
 - Distributed system
+- Conversational AI
+- Optimization
 - Block Chain Technology
 - AR (Augmented Reality)
 
@@ -63,7 +66,7 @@ title: About Aaditya Chapagain
 ## Hobbies/Interests
 
 Esports, I streams Dota2 sometimes.
-Cooking, Thanks to work from home, during this pandemic I develop and new skills of cooking.
+Cooking, Thanks to work from home, during this pandemic I develop skills of cooking.
 
 {{% printonly %}}
 
